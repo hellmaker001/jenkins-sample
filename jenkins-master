@@ -5,4 +5,5 @@ node{
   echo 'test'
   stage 'deploy'
   echo 'deploy now'
+  echo 'deploying after webhook'
 }
